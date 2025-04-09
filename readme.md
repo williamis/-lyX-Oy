@@ -9,3 +9,7 @@ Rakennettu yksinkertainen verkkosivusto. Sivusto sisältää tyylittelyä CSS:ll
 - HTML-sivut: tuotteet, yhteystiedot, jälleenmyynti
 - CSS-tiedostot eri sivujen ulkoasuun
 - Kuvia ja videoita käyttöliittymän tukena
+
+## Kuvakaappaus
+
+![Esikatselu](etusivu.png)
